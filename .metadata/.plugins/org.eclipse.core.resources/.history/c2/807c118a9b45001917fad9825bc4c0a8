@@ -1,0 +1,9 @@
+package com.test.Spring_Demo;
+
+public class HelloSpringApp {
+	public static void main(String[] args) {
+		
+		
+	}
+
+}
